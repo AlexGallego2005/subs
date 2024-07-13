@@ -1,7 +1,7 @@
 # Información
 
 | Basquash! |
-| --- |
+| --- | --- |
 | Fansub | RedLineSP, Nanikano Fansub |
 | Episodios | 26 |
 | Año | 2009 |

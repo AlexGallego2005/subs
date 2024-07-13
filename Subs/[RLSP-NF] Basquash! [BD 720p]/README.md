@@ -1,6 +1,6 @@
 # Información
 
-| ## Anime | ## Basquash! |
+| Anime | Basquash! |
 | --- | --- |
 | Fansub | RedLineSP, Nanikano Fansub |
 | Episodios | 26 |
